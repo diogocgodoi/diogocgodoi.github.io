@@ -1,0 +1,10 @@
+slug: "user-msfq9ocv"
+name:
+  display: "Diogo C. Godoi"
+  given: "Diogo"
+  family: "C. Godoi"
+role: "BSc Psychology Student"
+bio: "Hi, I am an undergraduate student "
+status:
+  icon: "👋"
+schema: "hugoblox/author/v1"

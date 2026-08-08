@@ -1,0 +1,76 @@
+schema: "hugoblox/author/v1"
+slug: "me"
+is_owner: true
+name:
+  display: "Diogo C. Godoi"
+  given: "Diogo"
+  family: "C. Godoi"
+  alternate: ""
+  pronunciation: ""
+  pronouns: ""
+role: "BSc Psychology Student"
+bio: "Hi, I am an undergraduate psychology student with a passion for scientific research. I am interested in using quanititative methods to investigate the intersection between cognition, behaviour and neuroscience. My goal is to contribute to discoveries that advance our understanding of the human mind and improve people's lives."
+affiliations:
+  - name: "Cardiff University"
+    url: "cardiff.ac.uk"
+links:
+  - icon: "hero/at-symbol"
+    url: "mailto:diogocgodoi@gmail.com"
+    label: "Email"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=7EWJjZYAAAAJ&hl=en"
+    label: "Google Scholar"
+  - icon: "academicons/researchgate"
+    url: "https://www.researchgate.net/profile/Diogo-Carrazzoni-Godoi?ev=hdr_xprf"
+    label: "ResearchGate"
+  - icon: "brands/linkedin"
+    url: "www.linkedin.com/in/diogo-carrazzoni-godoi-3800801b9"
+    label: "LinkedIn"
+  - icon: "brands/github"
+    url: "https://github.com/diogocgodoi"
+    label: "GitHub"
+interests:
+  - "Cognitive Neuroscience"
+  - "Computational Psychiatry"
+  - "Translational Research"
+  - "Evidence-Based Interventions"
+  - "Clinical Psychology"
+education:
+  - degree: "BSc Psychology"
+    institution: "Cardiff University"
+    start: "2023"
+    end: "2027"
+    summary: ""
+experience:
+  - role: "Research Assistant"
+    org: "University of New South Wales"
+    start: "July 2026"
+    end: "September 2026"
+    summary: "Conducted a neuroscience experiment with rodent-models; Programmed behavioural protocol in Med-PC for operant conditioning and optogenetics; Assisted with histology, immunohistochemistry, and other core laboratory procedures."
+  - role: "Placement Year"
+    org: "University of Cambridge / MRC Cognition and Brain Sciences Unit"
+    start: "September 2025"
+    end: "June 2026"
+    summary: "Developed an online computational decision-making task using JavaScript to investigate exploratory behaviour; Conducted clinical interviews with participants experiencing mental health conditions as part of a large-scale longitudinal cohort study; Built Bayesian hierarchical models to investigate how autobiographical memory moderates the relationship between trauma and depression."
+  - role: "Research Assistant"
+    org: "Cardiff University / Brain and Genomics Hub"
+    start: "Jun 2025"
+    end: "Sep 2025"
+    summary: "Led statistical analyses investigating associations between genetic, cognitive, and behavioural risk factors and the severity of positive symptoms in psychotic disorders; Selected to present research at the British Parliament and at an international conference; Conducted cognitive assessments and shadowed clinical interviews with individuals experiencing psychotic disorders; Led the statistical analysis of inter-rater reliability for a large-scale cohort study."
+languages:
+  - name: "English"
+    level: null
+    label: "Fluent"
+  - name: "Portuguese"
+    level: null
+    label: "Native"
+  - name: "French"
+    level: null
+    label: "Advanced"
+  - name: "Spanish"
+    level: null
+    label: "Intermediate"
+awards: []
+ids:
+  orcid: "0009-0003-9326-8478"
+  scopus: "60134347200"

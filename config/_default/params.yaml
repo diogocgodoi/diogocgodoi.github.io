@@ -1,0 +1,46 @@
+hugoblox:
+  schema: "2.0"
+  identity:
+    name: "Diogo C. Godoi"
+    type: person
+    tagline: BSc Psychology Student
+    description: Cognitive Neuroscience | Computational Psychiatry | Translational Research
+    organization: Cardiff University
+  theme:
+    mode: system
+    pack: default
+    colors:
+      primary: ""
+      secondary: ""
+      neutral: ""
+  typography:
+    font: serif
+    size: md
+  layout:
+    radius: md
+    spacing: comfortable
+    avatar_shape: circle
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+    cta:
+      enable: false
+      text: CV
+  footer:
+    style: minimal
+    language_switcher: true
+  copyright:
+    notice: © {year} {license}
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: true
+  search:
+    enable: true
