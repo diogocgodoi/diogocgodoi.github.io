@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Et Al. | </title>
+    <link>http://localhost:1313/authors/et-al./</link>
+      <atom:link href="http://localhost:1313/authors/et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>Et Al.</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Acceptance and commitment therapy for insomnia: an updated meta-analysis of randomized controlled trials</title>
+      <link>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
