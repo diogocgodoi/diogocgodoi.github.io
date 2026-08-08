@@ -169,6 +169,14 @@
     </item>
     
     <item>
+      <title>Acceptance and commitment therapy for insomnia: an updated meta-analysis of randomized controlled trials</title>
+      <link>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>⚡️ Turn Jupyter Notebooks into Blog Posts</title>
       <link>http://localhost:1313/blog/notebook-onboarding/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
@@ -1791,7 +1799,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-421357869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-562139847&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1809,7 +1817,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-421357869&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-562139847&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

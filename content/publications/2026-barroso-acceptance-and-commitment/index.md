@@ -6,18 +6,7 @@ authors:
   - Natanael de Paula Portilho
   - Alicja Garbacka-Struzik
   - Diogo Carrazzoni Godoi
-  - Maurício Prätzel Ellwanger
-  - Thaís Pereira Mendes
-  - Vitor Expedito Alves Ribeiro
-  - Victor Gonçalves Soares
-  - Larissa C. Hespanhol
-  - Maria Luísa Siegloch
-  - Ibrahim Radi Zahran
-  - Victoria Stadler de Abreu
-  - Helen Michaela de Oliveira
-  - Brandon Peluffo
-  - Eduardo Cerchi
-  - Daniel B. Kay
+  - et al.
   - Renatha El Rafihi-Ferreira
 date: 2026-08-03T00:00:00Z
 hugoblox:
