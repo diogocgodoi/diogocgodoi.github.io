@@ -169,7 +169,7 @@
     </item>
     
     <item>
-      <title>Acceptance and commitment therapy for insomnia: an updated meta-analysis of randomized controlled trials</title>
+      <title>Acceptance and Commitment Therapy for Insomnia: An Updated Meta-Analysis of Randomized Controlled Trials</title>
       <link>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</guid>
@@ -1799,7 +1799,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-562139847&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-398176425&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1817,7 +1817,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-562139847&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-398176425&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

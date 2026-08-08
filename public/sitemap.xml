@@ -14,13 +14,21 @@
   <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/tags/acceptance-and-commitment-therapy/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publication_types/article-journal/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/tags/insomnia/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/tags/meta-analysis/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/publication_types/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -29,8 +37,6 @@
     <loc>http://localhost:1313/courses/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/blog/notebook-onboarding/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

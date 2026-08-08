@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insomnia | </title>
+    <link>http://localhost:1313/tags/insomnia/</link>
+      <atom:link href="http://localhost:1313/tags/insomnia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Insomnia</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_eee4a95885829ab2.png</url>
+      <title>Insomnia</title>
+      <link>http://localhost:1313/tags/insomnia/</link>
+    </image>
+    
+    <item>
+      <title>Acceptance and Commitment Therapy for Insomnia: An Updated Meta-Analysis of Randomized Controlled Trials</title>
+      <link>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
