@@ -1,3 +1,4 @@
+
 ---
 title: "Acceptance and Commitment Therapy for Insomnia: An Updated Meta-Analysis of Randomized Controlled Trials"
 
@@ -33,7 +34,7 @@ publication_short: "J. Clin. Sleep Med."
 
 abstract: "To evaluate the effects of acceptance and commitment therapy (ACT) for insomnia compared with waitlist/standard control conditions and cognitive behavioral therapy for insomnia (CBT-I)."
 
-summary: "An updated meta-analysis evaluating the effects of acceptance and commitment therapy for insomnia."
+summary: "An updated meta-analysis evaluating the effects of acceptance and commitment therapy for insomnia compared with control conditions and cognitive behavioral therapy for insomnia."
 
 tags: []
 
@@ -41,7 +42,7 @@ featured: false
 
 hugoblox:
   ids:
-    doi: "10.1007/s44470-026-00125-4"
+  doi: "10.1007/s44470-026-00125-4"
 
 image:
   caption: ""

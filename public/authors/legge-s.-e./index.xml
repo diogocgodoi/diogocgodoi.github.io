@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legge, S. E. | </title>
+    <link>http://localhost:1313/authors/legge-s.-e./</link>
+      <atom:link href="http://localhost:1313/authors/legge-s.-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Legge, S. E.</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Behavioural and Genetic Predictors of Positive Symptoms in Psychotic Disorders</title>
+      <link>http://localhost:1313/publications/behavioural-genetic-predictors-psychosis/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/behavioural-genetic-predictors-psychosis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
