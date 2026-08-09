@@ -37,8 +37,8 @@ hugoblox:
 
 image:
   caption: ""
-  focal_point: ""
-  preview_only: true
+  focal_point: "Center"
+  preview_only: false
 
 projects: []
 
