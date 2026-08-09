@@ -34,7 +34,7 @@ sections:
           - "publications"
         featured_only: true
     design:
-      view: "carousel"
+      view: "article-grid"
       columns: 3
     ce: "section-papers"
     id: "papers"
