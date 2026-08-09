@@ -6,7 +6,7 @@ authors:
   - "Kotochinsky, M."
   - "Alessi, M.R"
   - "Amador, W.F.O."
-  - "Godoi, D.C."
+  - "**Godoi, D.C.**"
   - "Sabloak, R."
   - "Pereira, S.I.S.P."
   - "Ansari, Y.Z"

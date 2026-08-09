@@ -6,7 +6,7 @@ authors:
   - "Kotochinsky, M."
   - "Eloa Oliveira Fonseca, P."
   - "Mora, L."
-  - "Carrazzoni Godoi, D."
+  - "**Godoi, D.C**"
   - "Mendes Araujo, L."
   - "Gonçalves Pacheco, J. P."
 

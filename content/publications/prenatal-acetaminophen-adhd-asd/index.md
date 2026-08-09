@@ -3,7 +3,7 @@
 title: "Association of Prenatal Acetaminophen Exposure With Risk of ADHD and ASD in Offspring: A Systematic Review and Meta-Analysis"
 
 authors:
-  - "Godoi, D. C."
+  - "**Godoi, D. C.**"
   - "Guedes Amorim, K."
   - "Galvão, R. G. O."
   - "Vieira, A. C. P."

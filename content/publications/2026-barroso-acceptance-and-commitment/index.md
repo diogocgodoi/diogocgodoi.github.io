@@ -6,7 +6,7 @@ authors:
   - "Barroso, D."
   - "de Paula Portilho, N."
   - "Garbacka-Struzik, A."
-  - "Godoi, D. C."
+  - "**Godoi, D. C.**"
   - "Ellwanger, M. P."
   - "Pereira Mendes, T."
   - "Alves Ribeiro, V. E."
