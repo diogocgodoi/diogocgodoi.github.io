@@ -36,7 +36,7 @@ hugoblox:
 
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Top"
   preview_only: false
 
 projects: []

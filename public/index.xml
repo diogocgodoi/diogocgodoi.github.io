@@ -185,6 +185,14 @@
     </item>
     
     <item>
+      <title>Atomoxetine Versus Placebo for Cognitive Deficits in Stimulant Use Disorder: A Systematic Review</title>
+      <link>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>High-Dose Olanzapine Versus Clozapine in Treatment-Resistant Schizophrenia: A Systematic Review and Meta-analysis of Randomized Controlled Trials</title>
       <link>http://localhost:1313/publications/olanzapine-clozapine-schizophrenia/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
@@ -1839,7 +1847,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-154268937&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-645387291&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1857,7 +1865,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-154268937&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-645387291&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -3629,14 +3637,6 @@ Navigate down for sub-topics!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Want to contribute?&lt;/strong&gt; Hugo Blox is open source! 
 .&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</guid>
-      <description></description>
     </item>
     
     <item>
