@@ -24,6 +24,8 @@
   <url>
     <loc>http://localhost:1313/publications/behavioural-genetic-predictors-psychosis/</loc><lastmod>2026-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</loc><lastmod>2026-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/publications/olanzapine-clozapine-schizophrenia/</loc><lastmod>2026-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/anticholinergics-dementia/</loc><lastmod>2025-10-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -99,8 +101,6 @@
     <loc>http://localhost:1313/tags/presentations/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/events/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
   <url>

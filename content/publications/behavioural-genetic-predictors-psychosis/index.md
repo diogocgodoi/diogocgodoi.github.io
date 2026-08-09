@@ -3,7 +3,7 @@
 title: "Behavioural and Genetic Predictors of Positive Symptoms in Psychotic Disorders"
 
 authors:
-  - "**Godoi, D. C.**"
+  - "*Godoi, D. C."
   - "Walters, J. T."
   - "Legge, S. E."
 

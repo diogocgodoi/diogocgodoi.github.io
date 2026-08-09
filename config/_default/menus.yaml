@@ -14,7 +14,7 @@ main:
     weight: 20
   - name: Experience
     identifier: 2e9255c9
-    url: /#experience
+    url: content/experience.md
     weight: 30
   - name: Presentations
     identifier: 3f792885

@@ -5,7 +5,7 @@ title: "Risk of Dementia in Patients Treated with Anticholinergics for Overactiv
 authors:
   - "Kotochinsky, M."
   - "Mora, L."
-  - "**Godoi, D.C.**"
+  - "*Godoi, D.C."
   - "da Silva,F."
   - "Guedes Amorim, K."
   - "Fernandes Oliveira Amador, W."

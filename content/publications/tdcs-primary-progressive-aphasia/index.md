@@ -3,7 +3,7 @@
 title: "Linguistic Effects of Transcranial Direct Current Stimulation (tDCS) in Patients with Primary Progressive Aphasia: A Systematic Review and Meta-Analysis of Randomised Controlled Trials"
 
 authors:
-  - "**Godoi, D. C.**"
+  - "*Godoi, D. C."
   - "Pandiá, E."
   - "Rodrigues, M. E."
   - "Araújo, L."
