@@ -2084,11 +2084,6 @@
   .gap-x-6 {
     column-gap: calc(var(--spacing) * 6);
   }
-  :where(.space-x-3 > :not(:last-child)) {
-    --tw-space-x-reverse: 0;
-    margin-inline-start: calc(calc(var(--spacing) * 3) * var(--tw-space-x-reverse));
-    margin-inline-end: calc(calc(var(--spacing) * 3) * calc(1 - var(--tw-space-x-reverse)));
-  }
   .gap-y-2 {
     row-gap: calc(var(--spacing) * 2);
   }
@@ -8838,11 +8833,6 @@ html:not(.dark) .highlight .chroma .w {
   inherits: false;
   initial-value: 0;
 }
-@property --tw-space-x-reverse {
-  syntax: "*";
-  inherits: false;
-  initial-value: 0;
-}
 @property --tw-divide-y-reverse {
   syntax: "*";
   inherits: false;
@@ -9099,6 +9089,11 @@ html:not(.dark) .highlight .chroma .w {
   inherits: false;
   initial-value: 0;
 }
+@property --tw-space-x-reverse {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
 @property --tw-content {
   syntax: "*";
   initial-value: "";
@@ -9130,7 +9125,6 @@ html:not(.dark) .highlight .chroma .w {
       --tw-skew-y: initial;
       --tw-scroll-snap-strictness: proximity;
       --tw-space-y-reverse: 0;
-      --tw-space-x-reverse: 0;
       --tw-divide-y-reverse: 0;
       --tw-border-style: solid;
       --tw-gradient-position: initial;
@@ -9190,6 +9184,7 @@ html:not(.dark) .highlight .chroma .w {
       --tw-duration: initial;
       --tw-ease: initial;
       --tw-divide-x-reverse: 0;
+      --tw-space-x-reverse: 0;
       --tw-content: "";
     }
   }
