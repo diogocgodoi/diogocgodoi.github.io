@@ -24,7 +24,7 @@ summary: "A study examining clinical, social, and genetic predictors of individu
 
 tags: []
 
-featured: false
+featured: true
 
 hugoblox:
   ids:

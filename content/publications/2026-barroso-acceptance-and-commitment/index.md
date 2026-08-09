@@ -38,7 +38,7 @@ summary: "An updated meta-analysis evaluating the effects of acceptance and comm
 
 tags: []
 
-featured: false
+featured: true
 
 hugoblox:
   ids:
