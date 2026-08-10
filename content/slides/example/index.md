@@ -12,8 +12,8 @@ slides:
 
 <!-- no-branding -->
 
-{{< presentation-image src="presentations/slide1.jpg" style="margin: 0; width: 40%; height: auto;" alt="Slide 1" >}}
+{{< presentation-image src="presentations/slide1.jpg" style="margin: 0; width: 10%; height: auto;" alt="Slide 1" >}}
 
 ---
 
-{{< presentation-image src="presentations/slide3.png" style="margin: 0; width: 40%; height: auto;"  alt="Slide 2" >}}
+{{< presentation-image src="presentations/slide3.png" style="margin: 0; width: 10%; height: auto;"  alt="Slide 2" >}}
