@@ -2,22 +2,18 @@
 title: "My Presentation"
 date: 2026-08-10
 type: slides
-theme: white
-reveal_options:
-  controls: true
-  progress: true
-  slideNumber: true
+slides:
+  theme: white
+  reveal_options:
+    controls: true
+    progress: false
+    slideNumber: false    
 ---
 
 <!-- no-branding -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 80vh; width: 100%;">
-  <img src="presentations/slide1.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-</div>
+{{< presentation-image src="presentations/slide1.jpg" style="margin: 0; width: 40%; height: auto;" alt="Slide 1" >}}
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; height: 80vh; width: 100%;">
-  <img src="presentations/slide2.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-</div>
----
+{{< presentation-image src="presentations/slide3.png" style="margin: 0; width: 40%; height: auto;"  alt="Slide 2" >}}

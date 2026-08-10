@@ -1,0 +1,10 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "Presentation slide" -}}
+{{- $image := resources.Get (path.Join "media" $src) -}}
+{{- if not $image -}}
+  {{- errorf "presentation-image: could not find assets/media/%s (%s)" $src .Position -}}
+{{- end -}}
+<style>
+  .reveal .slides section { padding: 0 !important; }
+</style>
+<img src="{{ $image.RelPermalink }}" alt="{{ $alt }}" style="margin: 0;">

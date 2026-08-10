@@ -1,29 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slides |</title><link>https://example.com/slides/</link><atom:link href="https://example.com/slides/index.xml" rel="self" type="application/rss+xml"/><description>Slides</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_eee4a95885829ab2.png</url><title>Slides</title><link>https://example.com/slides/</link></image><item><title>My Presentation</title><link>https://example.com/slides/example/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://example.com/slides/example/</guid><description>&lt;!-- no-branding --&gt;
-&lt;p&gt;
-&lt;figure &gt;
-&lt;div class="flex justify-center "&gt;
-&lt;div class="w-full" &gt;
-&lt;img alt=""
-srcset="https://example.com/media/presentations/slide1_hu_51e6595cac978497.webp 320w, https://example.com/media/presentations/slide1_hu_1d1fec611645da4c.webp 480w, https://example.com/media/presentations/slide1_hu_7f24539eda1548d5.webp 573w"
-sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://example.com/media/presentations/slide1_hu_51e6595cac978497.webp"
-width="573"
-height="760"
-loading="lazy" data-zoomable /&gt;&lt;/div&gt;
-&lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | </title>
+    <link>http://localhost:1313/slides/</link>
+      <atom:link href="http://localhost:1313/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_eee4a95885829ab2.png</url>
+      <title>Slides</title>
+      <link>http://localhost:1313/slides/</link>
+    </image>
+    
+    <item>
+      <title>My Presentation</title>
+      <link>http://localhost:1313/slides/example/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/slides/example/</guid>
+      <description>&lt;!-- no-branding --&gt;
+&lt;style&gt;
+  .reveal .slides section { padding: 0 !important; }
+&lt;/style&gt;
+&lt;img src=&#34;http://localhost:1313/media/presentations/slide1.jpg&#34; alt=&#34;Slide 1&#34; style=&#34;margin: 0;&#34;&gt;
+
 &lt;hr&gt;
-&lt;p&gt;
-&lt;figure &gt;
-&lt;div class="flex justify-center "&gt;
-&lt;div class="w-full" &gt;
-&lt;img alt=""
-srcset="https://example.com/media/presentations/slide2_hu_d07a75d7cff70616.webp 320w, https://example.com/media/presentations/slide2_hu_a9341e87fe22b02d.webp 480w, https://example.com/media/presentations/slide2_hu_bb7217031b5b9da.webp 760w"
-sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://example.com/media/presentations/slide2_hu_d07a75d7cff70616.webp"
-width="760"
-height="537"
-loading="lazy" data-zoomable /&gt;&lt;/div&gt;
-&lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;hr&gt;</description></item></channel></rss>
+&lt;style&gt;
+  .reveal .slides section { padding: 0 !important; }
+&lt;/style&gt;
+&lt;img src=&#34;http://localhost:1313/media/presentations/slide3.png&#34; alt=&#34;Slide 2&#34; style=&#34;margin: 0;&#34;&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
