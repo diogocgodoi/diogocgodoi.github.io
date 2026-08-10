@@ -38,13 +38,15 @@
   <url>
     <loc>http://localhost:1314/publications/atomoxetine-stimulant-use-disorder/</loc><lastmod>2026-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1314/events/epa25/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1314/events/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1314/tags/academic/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1314/tags/markdown/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1314/tags/open-science/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1314/events/epa25/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1314/events/epa26/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -55,8 +57,6 @@
     <loc>http://localhost:1314/events/spr26/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1314/tags/presentations/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1314/events/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1314/tags/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

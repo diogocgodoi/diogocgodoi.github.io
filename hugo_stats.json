@@ -603,6 +603,7 @@
       "md:grid-cols-12",
       "md:grid-cols-2",
       "md:grid-cols-3",
+      "md:grid-cols-4",
       "md:grid-cols-[200px_auto]",
       "md:left-12",
       "md:order-2",

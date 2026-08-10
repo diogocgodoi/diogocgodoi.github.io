@@ -46,9 +46,9 @@ sections:
       filters:
         folders:
           - "events"
-    featured_only: false
+        featured_only: false
     design:
-      view: "artice-grid"
+      view: "article-grid"
       columns: 3
     ce: "section-talks"
     id: "talks"

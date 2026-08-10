@@ -5,7 +5,7 @@
     <link>http://localhost:1314/events/</link>
       <atom:link href="http://localhost:1314/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1314/media/icon_hu_eee4a95885829ab2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Poster at European Congress of Psychiatry 2026</title>
+      <title>Oral Presentation at the European Congress of Psychiatry 2025</title>
       <link>http://localhost:1314/events/epa25/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1314/events/epa25/</guid>
       <description></description>
     </item>

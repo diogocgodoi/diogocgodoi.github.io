@@ -1,49 +1,43 @@
 ---
-title: "Poster at European Congress of Psychiatry 2026"
-date: '2026-03-29'
+title: "Oral Presentation at the European Congress of Psychiatry 2025"
+date: '2026-04-01'
 
-event_name: EPA 2026
-event_url: https://2026.epa-congress.org/
+event_name: EPA 2025
+event_url: https://2025.epa-congress.org/
 
 location: In-Person
 address:
-  street: Prague Congress Center
-  city: Prague
+  street: IFEMA
+  city: Madrid
   region:  
   postcode:
-  country: Czech Republic
+  country: Spain
 
 summary: 
 abstract: |
-  In March of 2026, I had the opportunity to present a project which I worked on during my summer internship at the Brain and Genomics Hub in Cardiff. The poster was about understanding which factors were associated with positive symptom severity in psychosis, and is available for viewing.
+  In 2025, in my second year of university, I had the privilege to present a project I led with my collaborators. It was a meta-analysis evaluating the association between acetaminophen and ADHD and autism spectrum disorder. The published abstract can be found at the top of this page
 
 # Talk start and end times.
-event_start: '2026-03-29'
+event_start: '2025-04-01'
 event_end: 
 event_all_day: true
 
 authors:
   - me
 
-tags:
-  - Markdown
-  - Presentations
-  - Open Science
-  - Academic
-
 featured: true
 
 image:
-  caption: 'EPA 2026 Poster'
+  caption: 'EPA 2025 Oral Presentation'
   focal_point: Center
 
 links:
   - icon: book-open
     name: Published Abstract
-    url: https://www.cambridge.org/core/journals/european-psychiatry/article/behavioural-and-genetic-predictors-of-positive-symptoms-in-psychotic-disorders/857C92BC5985B68CBFC20526DC098530
-
+    url: https://www.cambridge.org/core/journals/european-psychiatry/article/association-of-prenatal-acetaminophen-exposure-with-risk-of-adhd-and-asd-in-offspring-a-systematic-review-and-metaanalysis/94057CD00BC09428B559E2238B5490D5
+    
 # Link to your Markdown slides
-slides: "example"
+slides: "epa25"
 
 projects: []
 ---
