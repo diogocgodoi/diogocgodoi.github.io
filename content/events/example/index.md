@@ -43,7 +43,7 @@ links:
     url: https://www.cambridge.org/core/journals/european-psychiatry/article/behavioural-and-genetic-predictors-of-positive-symptoms-in-psychotic-disorders/857C92BC5985B68CBFC20526DC098530
 
 # Link to your Markdown slides
-slides: "example"
+#slides: "example"
 
 projects: []
 ---
