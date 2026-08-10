@@ -16,7 +16,7 @@ slides:
 
 ---
 
-{{< presentation-image src="presentations/epa25/slide2.jpeg" style="margin: 0; width: 80%; height: auto;"  alt="Slide 2" >}}
+{{< presentation-image src="presentations/epa25/slide2.jpeg" style="margin: 0; width: 90%; height: auto;"  alt="Slide 2" >}}
 
 ---
 
