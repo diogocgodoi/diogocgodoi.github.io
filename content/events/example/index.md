@@ -14,7 +14,7 @@ address:
   country: Czech Republic
 
 summary: 
-description: |
+abstract: |
   In March of 2026, I had the opportunity to present a project which I worked on during my summer internship at the Brain and Genomics Hub in Cardiff. The poster was about understanding which factors were associated with positive symptom severity in psychosis, and is available for viewing.
 
 # Talk start and end times.
@@ -34,8 +34,8 @@ tags:
 featured: true
 
 image:
-  caption: 'Presentation freedom with Markdown'
-  focal_point: Right
+  caption: 'EPA 2026 Poster'
+  focal_point: Center
 
 links:
   - icon: book-open
