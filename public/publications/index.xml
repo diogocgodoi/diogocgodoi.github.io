@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | </title>
-    <link>http://localhost:1313/publications/</link>
-      <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/publications/</link>
+      <atom:link href="http://localhost:1314/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_eee4a95885829ab2.png</url>
+      <url>http://localhost:1314/media/icon_hu_eee4a95885829ab2.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>http://localhost:1314/publications/</link>
     </image>
     
     <item>
       <title>Acceptance and Commitment Therapy for Insomnia: An Updated Meta-Analysis of Randomized Controlled Trials</title>
-      <link>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</link>
+      <link>http://localhost:1314/publications/2026-barroso-acceptance-and-commitment/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</guid>
+      <guid>http://localhost:1314/publications/2026-barroso-acceptance-and-commitment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Behavioural and Genetic Predictors of Positive Symptoms in Psychotic Disorders</title>
-      <link>http://localhost:1313/publications/behavioural-genetic-predictors-psychosis/</link>
+      <link>http://localhost:1314/publications/behavioural-genetic-predictors-psychosis/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/behavioural-genetic-predictors-psychosis/</guid>
+      <guid>http://localhost:1314/publications/behavioural-genetic-predictors-psychosis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atomoxetine Versus Placebo for Cognitive Deficits in Stimulant Use Disorder: A Systematic Review</title>
-      <link>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</link>
+      <link>http://localhost:1314/publications/atomoxetine-stimulant-use-disorder/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</guid>
+      <guid>http://localhost:1314/publications/atomoxetine-stimulant-use-disorder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Dose Olanzapine Versus Clozapine in Treatment-Resistant Schizophrenia: A Systematic Review and Meta-analysis of Randomized Controlled Trials</title>
-      <link>http://localhost:1313/publications/olanzapine-clozapine-schizophrenia/</link>
+      <link>http://localhost:1314/publications/olanzapine-clozapine-schizophrenia/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/olanzapine-clozapine-schizophrenia/</guid>
+      <guid>http://localhost:1314/publications/olanzapine-clozapine-schizophrenia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk of Dementia in Patients Treated with Anticholinergics for Overactive Bladder Syndrome: A Systematic Review and Meta-Analysis</title>
-      <link>http://localhost:1313/publications/anticholinergics-dementia/</link>
+      <link>http://localhost:1314/publications/anticholinergics-dementia/</link>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/anticholinergics-dementia/</guid>
+      <guid>http://localhost:1314/publications/anticholinergics-dementia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linguistic Effects of Transcranial Direct Current Stimulation (tDCS) in Patients with Primary Progressive Aphasia: A Systematic Review and Meta-Analysis of Randomised Controlled Trials</title>
-      <link>http://localhost:1313/publications/tdcs-primary-progressive-aphasia/</link>
+      <link>http://localhost:1314/publications/tdcs-primary-progressive-aphasia/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/tdcs-primary-progressive-aphasia/</guid>
+      <guid>http://localhost:1314/publications/tdcs-primary-progressive-aphasia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association of Prenatal Acetaminophen Exposure With Risk of ADHD and ASD in Offspring: A Systematic Review and Meta-Analysis</title>
-      <link>http://localhost:1313/publications/prenatal-acetaminophen-adhd-asd/</link>
+      <link>http://localhost:1314/publications/prenatal-acetaminophen-adhd-asd/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/prenatal-acetaminophen-adhd-asd/</guid>
+      <guid>http://localhost:1314/publications/prenatal-acetaminophen-adhd-asd/</guid>
       <description></description>
     </item>
     
