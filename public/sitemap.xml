@@ -4,114 +4,130 @@
   
   
   <url>
-    <loc>https://example.com/courses/hugo-blox/getting-started/</loc><lastmod>2024-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/courses/hugo-blox/getting-started/</loc><lastmod>2024-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/reference/customization/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/courses/hugo-blox/reference/customization/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/project-structure/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/project-structure/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/slides/epa25/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/slides/epa26/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publications/2026-barroso-acceptance-and-commitment/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/slides/oncampus/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/article-journal/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/slides/pip/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/slides/spr26/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publications/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/slides/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publications/behavioural-genetic-predictors-psychosis/</loc><lastmod>2026-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publications/2026-barroso-acceptance-and-commitment/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publications/atomoxetine-stimulant-use-disorder/</loc><lastmod>2026-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publication_types/article-journal/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/academic/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publication_types/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/markdown/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publications/</loc><lastmod>2026-08-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/open-science/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publications/behavioural-genetic-predictors-psychosis/</loc><lastmod>2026-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/events/example/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publications/atomoxetine-stimulant-use-disorder/</loc><lastmod>2026-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/presentations/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/academic/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/events/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/markdown/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/open-science/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publications/olanzapine-clozapine-schizophrenia/</loc><lastmod>2026-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/events/epa25/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publications/anticholinergics-dementia/</loc><lastmod>2025-10-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/events/epa26/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/events/oncampus/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/events/pip26/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/events/spr26/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/presentations/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publications/tdcs-primary-progressive-aphasia/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/events/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publications/prenatal-acetaminophen-adhd-asd/</loc><lastmod>2025-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/notebook-onboarding/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publications/olanzapine-clozapine-schizophrenia/</loc><lastmod>2026-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publications/anticholinergics-dementia/</loc><lastmod>2025-10-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/jupyter/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/tutorials/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/courses/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/courses/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/get-started/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/hugo/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publications/tdcs-primary-progressive-aphasia/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/hugoblox/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/publications/prenatal-acetaminophen-adhd-asd/</loc><lastmod>2025-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/projects/pandas/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/blog/notebook-onboarding/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/projects/pytorch/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/blog/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/projects/scikit/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/jupyter/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/second-brain/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/tutorials/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/second-brain/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/data-visualization/</loc><lastmod>2023-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/blog/get-started/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/teach-courses/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/hugo/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/hugoblox/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/projects/pandas/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/formatting/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/projects/pytorch/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/hugoblox-kit/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/projects/scikit/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/blog/project-management/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/second-brain/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/blog/second-brain/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/blog/data-visualization/</loc><lastmod>2023-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/formatting/callout/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/blog/teach-courses/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/formatting/cards/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/reference/i18n/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/reference/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/formatting/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/formatting/toggle/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1314/tags/hugoblox-kit/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/courses/hugo-blox/guide/formatting/steps/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>http://localhost:1314/blog/project-management/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1314/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/formatting/callout/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/formatting/cards/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1314/courses/hugo-blox/reference/i18n/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1314/courses/hugo-blox/reference/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/formatting/toggle/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1314/courses/hugo-blox/guide/formatting/steps/</loc><changefreq>weekly</changefreq></url></urlset>

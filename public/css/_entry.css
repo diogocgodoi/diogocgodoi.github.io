@@ -5348,6 +5348,9 @@
   .dark\:text-red-300:where(.dark, .dark *) {
     color: var(--color-red-300);
   }
+  .dark\:text-red-400:where(.dark, .dark *) {
+    color: var(--color-red-400);
+  }
   .dark\:text-rose-300:where(.dark, .dark *) {
     color: var(--color-rose-300);
   }
