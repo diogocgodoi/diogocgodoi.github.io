@@ -3649,6 +3649,44 @@
     --tw-prose-invert-th-borders: oklch(44.6% 0.043 257.281);
     --tw-prose-invert-td-borders: oklch(37.2% 0.044 257.287);
   }
+  .prose-zinc {
+    --tw-prose-body: oklch(37% 0.013 285.805);
+    --tw-prose-headings: oklch(21% 0.006 285.885);
+    --tw-prose-lead: oklch(44.2% 0.017 285.786);
+    --tw-prose-links: oklch(21% 0.006 285.885);
+    --tw-prose-bold: oklch(21% 0.006 285.885);
+    --tw-prose-counters: oklch(55.2% 0.016 285.938);
+    --tw-prose-bullets: oklch(87.1% 0.006 286.286);
+    --tw-prose-hr: oklch(92% 0.004 286.32);
+    --tw-prose-quotes: oklch(21% 0.006 285.885);
+    --tw-prose-quote-borders: oklch(92% 0.004 286.32);
+    --tw-prose-captions: oklch(55.2% 0.016 285.938);
+    --tw-prose-kbd: oklch(21% 0.006 285.885);
+    --tw-prose-kbd-shadows: color-mix(in oklab, oklch(21% 0.006 285.885) 10%, transparent);
+    --tw-prose-code: oklch(21% 0.006 285.885);
+    --tw-prose-pre-code: oklch(92% 0.004 286.32);
+    --tw-prose-pre-bg: oklch(27.4% 0.006 286.033);
+    --tw-prose-th-borders: oklch(87.1% 0.006 286.286);
+    --tw-prose-td-borders: oklch(92% 0.004 286.32);
+    --tw-prose-invert-body: oklch(87.1% 0.006 286.286);
+    --tw-prose-invert-headings: #fff;
+    --tw-prose-invert-lead: oklch(70.5% 0.015 286.067);
+    --tw-prose-invert-links: #fff;
+    --tw-prose-invert-bold: #fff;
+    --tw-prose-invert-counters: oklch(70.5% 0.015 286.067);
+    --tw-prose-invert-bullets: oklch(44.2% 0.017 285.786);
+    --tw-prose-invert-hr: oklch(37% 0.013 285.805);
+    --tw-prose-invert-quotes: oklch(96.7% 0.001 286.375);
+    --tw-prose-invert-quote-borders: oklch(37% 0.013 285.805);
+    --tw-prose-invert-captions: oklch(70.5% 0.015 286.067);
+    --tw-prose-invert-kbd: #fff;
+    --tw-prose-invert-kbd-shadows: rgb(255 255 255 / 10%);
+    --tw-prose-invert-code: #fff;
+    --tw-prose-invert-pre-code: oklch(87.1% 0.006 286.286);
+    --tw-prose-invert-pre-bg: rgb(0 0 0 / 50%);
+    --tw-prose-invert-th-borders: oklch(44.2% 0.017 285.786);
+    --tw-prose-invert-td-borders: oklch(37% 0.013 285.805);
+  }
   .outline-none {
     --tw-outline-style: none;
     outline-style: none;
@@ -4407,6 +4445,9 @@
     }
     .md\:px-12 {
       padding-inline: calc(var(--spacing) * 12);
+    }
+    .md\:py-12 {
+      padding-block: calc(var(--spacing) * 12);
     }
     .md\:py-16 {
       padding-block: calc(var(--spacing) * 16);

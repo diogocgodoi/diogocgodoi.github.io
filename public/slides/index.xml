@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | </title>
-    <link>http://localhost:1314/slides/</link>
-      <atom:link href="http://localhost:1314/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/slides/</link>
+      <atom:link href="https://example.com/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1314/media/icon_hu_eee4a95885829ab2.png</url>
+      <url>https://example.com/media/icon_hu_eee4a95885829ab2.png</url>
       <title>Slides</title>
-      <link>http://localhost:1314/slides/</link>
+      <link>https://example.com/slides/</link>
     </image>
     
     <item>
       <title>My Presentation</title>
-      <link>http://localhost:1314/slides/example/</link>
+      <link>https://example.com/slides/example/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/slides/example/</guid>
+      <guid>https://example.com/slides/example/</guid>
       <description>&lt;!-- no-branding --&gt;
 &lt;style&gt;
   .reveal .slides {
@@ -37,7 +37,7 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/slide1.jpg&#34;
+    src=&#34;https://example.com/media/presentations/slide1.jpg&#34;
     alt=&#34;Slide 1&#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 50%; height: auto;&#34;
   &gt;
@@ -63,7 +63,7 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/slide3.png&#34;
+    src=&#34;https://example.com/media/presentations/slide3.png&#34;
     alt=&#34;Slide 2&#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 80%; height: auto;&#34;
   &gt;
