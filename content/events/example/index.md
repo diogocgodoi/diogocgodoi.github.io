@@ -1,19 +1,19 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
-date: '2017-01-01T00:00:00Z'
+title: "Poster at European Congress of Psychiatry 2026"
+date: '2026-03-29'
 
-event_name: HugoBlox Showcase
-event_url: https://hugoblox.com
+event_name: EPA 2026
+event_url: https://2026.epa-congress.org/
 
-location: Online & In-Person
+location: In-Person
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Prague Congress Center
+  city: Prague
+  region:  
+  postcode:
+  country: Czech Republic
 
-summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
+summary: 
 abstract: |
   Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
 
