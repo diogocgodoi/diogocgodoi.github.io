@@ -46,8 +46,10 @@ sections:
       filters:
         folders:
           - "events"
+    featured_only: false
     design:
-      view: "card"
+      view: "artice-grid"
+      columns: 3
     ce: "section-talks"
     id: "talks"
     As: "section-b7bd310e"
