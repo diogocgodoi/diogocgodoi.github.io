@@ -11,10 +11,13 @@ reveal_options:
 
 <!-- no-branding -->
 
-![](slide-01.png)
+<div style="display: flex; justify-content: center; align-items: center; height: 80vh; width: 100%;">
+  <img src="presentations/slide1.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 
 ---
 
-![](slide-02.png)
-
+<div style="display: flex; justify-content: center; align-items: center; height: 80vh; width: 100%;">
+  <img src="presentations/slide2.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 ---
