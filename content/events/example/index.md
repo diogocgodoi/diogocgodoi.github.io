@@ -14,13 +14,13 @@ address:
   country: Czech Republic
 
 summary: 
-abstract: |
-  Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
+description: |
+  In March of 2026, I had the opportunity to present a project which I worked on during my summer internship at the Brain and Genomics Hub in Cardiff. The poster was about understanding which factors were associated with positive symptom severity in psychosis, and is available for viewing.
 
 # Talk start and end times.
-event_start: '2030-06-01T13:00:00Z'
-event_end: '2030-06-01T15:00:00Z'
-event_all_day: false
+event_start: '2026-03-29'
+event_end: 
+event_all_day: true
 
 authors:
   - me
@@ -38,15 +38,9 @@ image:
   focal_point: Right
 
 links:
-  - icon: brands/github
-    name: Star on GitHub
-    url: https://github.com/HugoBlox/kit
-  - icon: brands/youtube
-    name: Video Tutorial
-    url: https://www.youtube.com/
   - icon: book-open
-    name: Documentation
-    url: https://docs.hugoblox.com/guides/slides/
+    name: Published Abstract
+    url: https://www.cambridge.org/core/journals/european-psychiatry/article/behavioural-and-genetic-predictors-of-positive-symptoms-in-psychotic-disorders/857C92BC5985B68CBFC20526DC098530
 
 # Link to your Markdown slides
 slides: "example"

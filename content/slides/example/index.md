@@ -5,7 +5,7 @@ date: 2024-01-01
 type: slides
 summary: "A quick tour of recent research highlights: multimodal LLMs, efficient training, and responsible AI."
 slides:
-  theme: black  # Options: black, white, league, beige, sky, night, serif, simple, solarized
+  theme: white  # Options: black, white, league, beige, sky, night, serif, simple, solarized
   highlight_style: dracula  # Code syntax highlighting theme
   diagram: true  # Enable Mermaid diagrams for flowcharts, etc.
   reveal_options:
@@ -16,36 +16,45 @@ slides:
 
   # BRANDING: Add logo, title overlay, and footer to your presentation
   # All settings are optional - remove any you don't need
-  branding:
-    # LOGO: Display your organization's logo
-    logo:
-      filename: "slides-logo.svg"   # File in assets/media/ folder (SVG recommended for any theme)
-      position: "top-right"         # Options: top-left, top-right, bottom-left, bottom-right
-      width: "50px"                 # Logo width (height scales automatically)
-      # margin: "20px"              # Distance from edge (optional, default: 20px)
-    
-    # TITLE OVERLAY: Show presentation title on every slide
-    title:
-      show: true                    # Set to false to hide
-      position: "bottom-left"       # Options: top-left, top-right, bottom-left, bottom-right
-      # text: "Short Title"         # Optional: override the page title with custom text
-      # margin: "20px"              # Distance from edge (optional)
-    
-    # AUTHOR OVERLAY: Show author name on every slide
-    # author:
-    #   show: true
-    #   position: "bottom-right"
-    
-    # FOOTER TEXT: Display copyright, conference name, etc.
-    footer:
-      text: "© 2026 HugoBlox"       # Supports Markdown (e.g., links)
-      position: "bottom-center"     # Options: top-left, top-right, bottom-left, bottom-right, bottom-center
+#  branding:
+#    # LOGO: Display your organization's logo
+#    logo:
+#      filename: "slides-logo.svg"   # File in assets/media/ folder (SVG recommended for any theme)
+#      position: "top-right"         # Options: top-left, top-right, bottom-left, bottom-right
+#      width: "50px"                 # Logo width (height scales automatically)
+#      # margin: "20px"              # Distance from edge (optional, default: 20px)
+#    
+#    # TITLE OVERLAY: Show presentation title on every slide
+#    title:
+#      show: true                    # Set to false to hide
+#      position: "bottom-left"       # Options: top-left, top-right, bottom-left, bottom-right
+#      # text: "Short Title"         # Optional: override the page title with custom text
+#      # margin: "20px"              # Distance from edge (optional)
+#    
+#    # AUTHOR OVERLAY: Show author name on every slide
+#    # author:
+#    #   show: true
+#    #   position: "bottom-right"
+#    
+#    # FOOTER TEXT: Display copyright, conference name, etc.
+#    footer:
+#      text: "© 2026 HugoBlox"       # Supports Markdown (e.g., links)
+#      position: "bottom-center"     # Options: top-left, top-right, bottom-left, bottom-right, #      bottom-center
 ---
 
 
 <!-- no-branding -->
-# Example Talk
-### Dr. Alex Johnson · Meta AI
+
+---
+<div class="r-hstack" style="align-items: center;">
+
+<div style="flex: 1;">
+
+![](https://images.unsplash.com/photo-1708011271954-c0d2b3155ded?w=400&dpr=2&h=400&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fG1hdGhlbWF0aWNzfGVufDB8fHx8MTc2NTYzNTEzMHww&ixlib=rb-4.1.0)
+
+</div>
+
+<div style="flex: 1; padding-left: 2rem;">
 
 ---
 

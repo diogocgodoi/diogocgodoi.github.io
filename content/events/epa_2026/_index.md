@@ -38,15 +38,9 @@ image:
   focal_point: Right
 
 links:
-  - icon: brands/github
-    name: Star on GitHub
-    url: https://github.com/HugoBlox/kit
-  - icon: brands/youtube
-    name: Video Tutorial
-    url: https://www.youtube.com/
   - icon: book-open
-    name: Documentation
-    url: https://docs.hugoblox.com/guides/slides/
+    name: Published Abstract
+    url: https://www.cambridge.org/core/journals/european-psychiatry/article/behavioural-and-genetic-predictors-of-positive-symptoms-in-psychotic-disorders/857C92BC5985B68CBFC20526DC098530
 
 # Link to your Markdown slides
 slides: "example"
