@@ -18,24 +18,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: me
-
-  - block: resume-awards
-    content:
-      title: Awards
-      username: me
-
-  - block: resume-languages
-    content:
-      title: Languages
-      username: me
 
   - block: logos
     content:
-      title: Current & Previous Institutional Affiliations
+      title: Programming skills
       items:
         - name: R
           image: logos/R.png
