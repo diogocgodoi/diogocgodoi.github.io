@@ -18,16 +18,33 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  - block: resume-skills
+
+  - block: logos
     content:
-      title: Skills & Hobbies
-      username: me
-  - block: resume-awards
-    content:
-      title: Awards
-      username: me
-  - block: resume-languages
-    content:
-      title: Languages
-      username: me
+      title: Programming skills
+      items:
+        - name: R
+          image: logos/R.png
+          url: 
+          description: R
+        - name: Python
+          image: logos/Python.png
+          url: 
+          description: Python
+        - name: JavaScript
+          image: logos/js.png
+          url: 
+          description: JavaScript
+        - name: HTML
+          image: logos/html.png
+          url: 
+          description: HTML
+        - name: CSS
+          image: logos/css.png
+          url: 
+          description: CSS
+    design:
+      layout: carousel
+      #logo_style: original
+      logo_size: lg
 ---

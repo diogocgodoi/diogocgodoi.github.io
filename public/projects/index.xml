@@ -13,27 +13,93 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>Cognitive &amp; Clinical Neuroscience</title>
+      <link>http://localhost:1313/projects/neurosciences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/neurosciences/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;My research interests also extend to understanding how the brain generates functions such as perception and language. I am particularly interested in how neurological conditions can affect daily function, and how non-invasive brain stimulation can be used to treat dysfunction at a neural level. Some of the projects I have been involved in this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linguistic Effects of tDCS in Primary Progressive Aphasia (1)&lt;/li&gt;
+&lt;li&gt;Non-invasive Brain Stimulation in Primary Progressive Aphasia (2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cited-works&#34;&gt;Cited Works&lt;/h3&gt;
+&lt;p&gt;(1) Godoi, D. C., Pandiá, E., &amp;hellip; McGonigle, D. J. (2025). Linguistic effects of transcranial Direct Current Stimulation (tDCS) in
+patients with primary progressive aphasia: A systematic review and meta-analysis of randomised controlled trials.
+Neuroscience &amp;amp; Biobehavioral Reviews. DOI: 10.1016/j.neubiorev.2025.106264&lt;/p&gt;
+&lt;p&gt;(2) Godoi, D.C., L.M. Araújo &amp;hellip; D.J. McGonigle. The efficacy of transcranial Direct Current Stimulation (tDCS) for Neuropathic
+Pain: A systematic review and meta-analysis. PROSPERO: CRD420251146590&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <title>Evidence-Based Interventions</title>
+      <link>http://localhost:1313/projects/evidence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/evidence/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;I am interested in evaluating the effectiveness of interventions for mental health and neurological conditions. In particular, using meta-analytic approaches to synthesise evidence across studies and evaluate the effectiveness of psychological, pharmacological, and neuromodulatory interventions. I am also interested in evaluate the risk of different interventions at a population level.This sort of research can clinicians identify the most optimal treatment for their patients, and for regulatory bodies to create evidence-based guidelines.&lt;/p&gt;
+&lt;p&gt;Some of the main projects I have been involved in this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acceptance and Commitment Therapy for Insomnia: An Updated Meta-Analysis (1)&lt;/li&gt;
+&lt;li&gt;Non-invasive Brain Stimulation in Primary Progressive Aphasia (2)&lt;/li&gt;
+&lt;li&gt;Non-invasive Brain Stimulation for Neuropathic Pain (3)&lt;/li&gt;
+&lt;li&gt;High-Dose Olanzapine vs. Clozapine for Treatment-Resistant Schizophrenia (4)&lt;/li&gt;
+&lt;li&gt;Atomoxetine for Cognitive Deficits in Stimulant Use Disorder (5)&lt;/li&gt;
+&lt;li&gt;Association of Prenatal Acetaminophen Exposure With Risk of ADHD and ASD in Offspring (6)&lt;/li&gt;
+&lt;li&gt;Risk of dementia in patients treated with anticholinergics for overactive bladder syndrome (7)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cited-works&#34;&gt;Cited Works&lt;/h3&gt;
+&lt;p&gt;(1) Barroso, D. Portilho N., Garbacka A., Godoi D. C., &amp;hellip; El Rafihi-Ferreira R. Acceptance and commitment therapy for insom-
+nia: an updated meta-analysis of randomized controlled trials. Journal of Clinical Sleep Medicine 22, 132 (2026). DOI:
+&lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(2) Godoi, D. C., Pandiá, E., &amp;hellip; McGonigle, D. J. (2025). Linguistic effects of transcranial Direct Current Stimulation (tDCS) in
+patients with primary progressive aphasia: A systematic review and meta-analysis of randomised controlled trials.
+Neuroscience &amp;amp; Biobehavioral Reviews. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(3) Godoi, D.C., L.M. Araújo &amp;hellip; D.J. McGonigle. The efficacy of transcranial Direct Current Stimulation (tDCS) for Neuropathic
+Pain: A systematic review and meta-analysis. PROSPERO: CRD420251146590&lt;/p&gt;
+&lt;p&gt;(4) Kotochinsky, M., Eloa P.M., Mora, L., Godoi, D.C. … Pacheco, J.P.G. (2026) High-dose olanzapine vs clozapine in treatment-resistant schizophrenia: a systematic review and meta-analysis of randomized controlled trials. Journal of Psychiatric
+Practice. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(5) Barroso, D., Kotochinsky, M., Alessi, M.R, Amador, W.F.O., *Godoi, D.C., Sabloak, R., Pereira, S.I.S.P., Ansari, Y.Z, Amorim, K.G., Barbosa, G., Texeira, A. (2026). Atomoxetine Versus Placebo for Cognitive Deficits in Stimulant Use Disorder: A Systematic Review. Subst. Use Addict. J. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6) Godoi, D. C., Amorim, K. G., &amp;hellip; Júnior, S. A. de S. (2025). Association of Prenatal Acetaminophen Exposure With Risk of
+ADHD and ASD in Offspring: A systematic review and meta-analysis. European Psychiatry, 68(S1), S140–S141. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(7) Kotochinsky, M., Mora, L., *Godoi, D.C., da Silva,F., Guedes Amorim, K., Fernandes Oliveira Amador, W., Barroso, D., Pardini Fagundes, T. (2025). Risk of Dementia in Patients Treated with Anticholinergics for Overactive Bladder Syndrome: A Systematic Review and Meta-Analysis. Neurol. Sci. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Investigating Mechanisms of Mental Health Disorders</title>
+      <link>http://localhost:1313/projects/mechanisms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mechanisms/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;My main research interests surround understanding the mechanisms underlying psychopathology. While our treatments for mental health disorders have come a long way, there is still a lot of room for improvement in treating those who are resistant to available treatments, and developing more efficient interventions to address the excess demand for mental health support. To address this challenge, we must first improve our understanding of these conditions.&lt;/p&gt;
+&lt;p&gt;I aim to investigate this problem through different lenses, and integrate findings from cognitive science, behavioural approaches, genetics and neuroscience to deepen our knowledge of psychopathology that in the future, can help to develop more effective interventions. Some of the main projects I have been involved in this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Behavioural and Genetic Predictors of Positive Symptoms in Psychotic Disorders (1)&lt;/li&gt;
+&lt;li&gt;Validation of an Online Computational Task measuring Foraging Behaviour for Mental Health (2)&lt;/li&gt;
+&lt;li&gt;Autobiographical Memory Specificity as a Moderator of the Trauma-Depression Association (3)&lt;/li&gt;
+&lt;li&gt;Using optogenetics to investigate involvement of the BLA-Accumbens and BLA-CeA pathway in safety and fear learning (UNSW).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cited-works&#34;&gt;Cited Works&lt;/h3&gt;
+&lt;p&gt;(1) Godoi D. C., Walters, J. T., &amp;amp; Legge, S. E. (2026). Behavioural and Genetic Predictors of Positive Symptoms in Psychotic
+Disorders. European Psychiatry, 69(S1), S177-S177. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(2) Godoi, D.C., T. Dalgleish, A. Bevan. Validation of an Online Computational Task measuring Foraging Behaviour for Mental
+Health. OSF: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(3) Godoi, D.C., A. Bevan, K. Klaus &amp;hellip; T. Dalgleish. Autobiographical Memory Specificity as a Moderator of the Trauma-Depression
+Association. OSF: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

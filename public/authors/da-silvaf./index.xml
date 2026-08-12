@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Da Silva,F. | </title>
+    <link>http://localhost:1313/authors/da-silvaf./</link>
+      <atom:link href="http://localhost:1313/authors/da-silvaf./index.xml" rel="self" type="application/rss+xml" />
+    <description>Da Silva,F.</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Risk of Dementia in Patients Treated with Anticholinergics for Overactive Bladder Syndrome: A Systematic Review and Meta-Analysis</title>
+      <link>http://localhost:1313/publications/anticholinergics-dementia/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/anticholinergics-dementia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

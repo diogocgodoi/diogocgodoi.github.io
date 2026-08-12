@@ -1,0 +1,12 @@
+{{- $src := .Get "src" -}}
+{{- $pdf := resources.Get (path.Join "media" $src) -}}
+{{- if not $pdf -}}
+  {{- errorf "presentation-pdf: could not find assets/media/%s (%s)" $src .Position -}}
+{{- end -}}
+<iframe
+  src="{{ $pdf.RelPermalink }}"
+  title="Presentation PDF"
+  width="100%"
+  height="700"
+  style="border: 0;"
+></iframe>

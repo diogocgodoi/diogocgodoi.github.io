@@ -7,16 +7,20 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      sort_by: title
+      sort_ascending: false
+      title: Research Interests
+      text: So far, my interests and the projects I have worked on have spanned three main research areas outlined below.
       filters:
         folders:
           - projects
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
       show_date: false
       show_read_time: false
       show_read_more: false
+
+      
 ---

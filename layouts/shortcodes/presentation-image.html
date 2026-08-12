@@ -1,0 +1,35 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "Presentation slide" -}}
+{{- $style := .Get "style" | default "" -}}
+{{- $resourcePath := path.Join "media" $src -}}
+{{- $image := resources.Get $resourcePath -}}
+{{- $srcUrl := "" -}}
+{{- if $image -}}
+  {{- $srcUrl = $image.RelPermalink -}}
+{{- else -}}
+  {{- $srcUrl = printf "/media/%s" $src -}}
+{{- end -}}
+<style>
+  .reveal .slides {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    transform: none !important;
+  }
+
+  .reveal .slides section {
+    top: 0 !important;
+    left: 0 !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+</style>
+<div style="position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;">
+  <img
+    src="{{ $srcUrl }}"
+    alt="{{ $alt }}"
+    style="display: block; margin: 0; max-width: none !important; max-height: none !important; {{ $style | safeCSS }}"
+  >
+</div>
