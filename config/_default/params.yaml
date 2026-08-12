@@ -7,7 +7,7 @@ hugoblox:
     description: Cognitive Neuroscience | Computational Psychiatry | Translational Research
     organization: Cardiff University
   theme:
-    mode: system
+    mode: dark
     pack: default
     colors:
       primary: ""
