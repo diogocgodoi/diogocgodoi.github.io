@@ -18,7 +18,7 @@ main:
     url: /#talks
     weight: 30
 
-  - name: Research Interests
+  - name: Research Areas
     identifier: 2e9255c10
     url: /Projects/
     weight: 40

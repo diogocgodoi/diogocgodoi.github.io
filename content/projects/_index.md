@@ -9,7 +9,7 @@ sections:
     content:
       sort_by: title
       sort_ascending: false
-      title: Research Interests
+      title: Research Areas
       text: So far, my interests and the projects I have worked on have spanned three main research areas outlined below.
       filters:
         folders:
