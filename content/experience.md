@@ -44,7 +44,7 @@ sections:
           url: 
           description: CSS
     design:
-      layout: row
-      logo_style: grayscale
+      layout: carousel
+      #logo_style: original
       logo_size: lg
 ---
