@@ -1,9 +1,13 @@
 {{- $src := .Get "src" -}}
 {{- $alt := .Get "alt" | default "Presentation slide" -}}
 {{- $style := .Get "style" | default "" -}}
-{{- $image := resources.Get (path.Join "media" $src) -}}
-{{- if not $image -}}
-  {{- errorf "presentation-image: could not find assets/media/%s (%s)" $src .Position -}}
+{{- $resourcePath := path.Join "media" $src -}}
+{{- $image := resources.Get $resourcePath -}}
+{{- $srcUrl := "" -}}
+{{- if $image -}}
+  {{- $srcUrl = $image.RelPermalink -}}
+{{- else -}}
+  {{- $srcUrl = printf "/media/%s" $src -}}
 {{- end -}}
 <style>
   .reveal .slides {
@@ -24,7 +28,7 @@
 </style>
 <div style="position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;">
   <img
-    src="{{ $image.RelPermalink }}"
+    src="{{ $srcUrl }}"
     alt="{{ $alt }}"
     style="display: block; margin: 0; max-width: none !important; max-height: none !important; {{ $style | safeCSS }}"
   >

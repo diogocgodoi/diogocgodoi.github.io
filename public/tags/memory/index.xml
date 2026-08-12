@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memory | </title>
+    <link>http://localhost:1313/tags/memory/</link>
+      <atom:link href="http://localhost:1313/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Memory</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_eee4a95885829ab2.png</url>
+      <title>Memory</title>
+      <link>http://localhost:1313/tags/memory/</link>
+    </image>
+    
+    <item>
+      <title>Investigating Mechanisms of Mental Health Disorders</title>
+      <link>http://localhost:1313/projects/pandas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pandas/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;My main research interests surround understanding the mechanisms underlying psychopathology. While our treatments for mental health disorders have come a long way, there is still a lot of room for improvement in treating those who are resistant to available treatments, and developing more efficient interventions to address the excess demand for mental health support. To address this challenge, we must first improve our understanding of these conditions.&lt;/p&gt;
+&lt;p&gt;I aim to investigate this problem through different lenses, and integrate findings from cognitive science, behavioural approaches, genetics and neuroscience to deepen our knowledge of psychopathology that in the future, can help to develop more effective interventions. Some of the main projects I have been involved in this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Behavioural and Genetic Predictors of Positive Symptoms in Psychotic Disorders (1)&lt;/li&gt;
+&lt;li&gt;Validation of an Online Computational Task measuring Foraging Behaviour for Mental Health (2)&lt;/li&gt;
+&lt;li&gt;Autobiographical Memory Specificity as a Moderator of the Trauma-Depression Association (3)&lt;/li&gt;
+&lt;li&gt;Using optogenetics to investigate involvement of the BLA-Accumbens and BLA-CeA pathway in safety and fear learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cited-works&#34;&gt;Cited Works&lt;/h3&gt;
+&lt;p&gt;(1) Godoi D. C., Walters, J. T., &amp;amp; Legge, S. E. (2026). Behavioural and Genetic Predictors of Positive Symptoms in Psychotic
+Disorders. European Psychiatry, 69(S1), S177-S177. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(2) Godoi, D.C., T. Dalgleish, A. Bevan. Validation of an Online Computational Task measuring Foraging Behaviour for Mental
+Health. OSF: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(3) Godoi, D.C., A. Bevan, K. Klaus &amp;hellip; T. Dalgleish. Autobiographical Memory Specificity as a Moderator of the Trauma-Depression
+Association. OSF: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;involved in this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Behavioural and Genetic Predictors of Positive Symptoms in Psychotic Disorders (1)&lt;/li&gt;
+&lt;li&gt;Validation of an Online Computational Task measuring Foraging Behaviour for Mental Health (2)&lt;/li&gt;
+&lt;li&gt;Autobiographical Memory Specificity as a Moderator of the Trauma-Depression Association (3)&lt;/li&gt;
+&lt;li&gt;Using optogenetics to investigate involvement of the BLA-Accumbens and BLA-CeA pathway in safety and fear learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--more--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

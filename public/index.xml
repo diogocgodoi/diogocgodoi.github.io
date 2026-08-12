@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1314/</link>
-      <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1314/media/icon_hu_eee4a95885829ab2.png</url>
+      <url>http://localhost:1313/media/icon_hu_eee4a95885829ab2.png</url>
       <title></title>
-      <link>http://localhost:1314/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:1314/courses/hugo-blox/getting-started/</link>
+      <link>http://localhost:1313/courses/hugo-blox/getting-started/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/getting-started/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/getting-started/</guid>
       <description>&lt;h2 id=&#34;quick-start-from-template&#34;&gt;Quick Start from Template&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
 &lt;h3 id=&#34;create-a-site&#34;&gt;Create a site&lt;/h3&gt;
@@ -65,9 +65,9 @@
     
     <item>
       <title>Customizing Hugo</title>
-      <link>http://localhost:1314/courses/hugo-blox/reference/customization/</link>
+      <link>http://localhost:1313/courses/hugo-blox/reference/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/reference/customization/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/reference/customization/</guid>
       <description>&lt;p&gt;View the full docs at 
 &lt;/p&gt;
 </description>
@@ -75,9 +75,9 @@
     
     <item>
       <title>Project Structure</title>
-      <link>http://localhost:1314/courses/hugo-blox/guide/project-structure/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/project-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/guide/project-structure/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/project-structure/</guid>
       <description>&lt;h2 id=&#34;folder-structure&#34;&gt;Folder Structure&lt;/h2&gt;
 &lt;p&gt;There are &lt;strong&gt;4 main folders for Hugo-based sites&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -131,9 +131,9 @@
     
     <item>
       <title>Configuration</title>
-      <link>http://localhost:1314/courses/hugo-blox/guide/configuration/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/guide/configuration/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/configuration/</guid>
       <description>&lt;p&gt;The configuration of your site can be found in &lt;code&gt;config/_default/&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;full-documentation&#34;&gt;Full Documentation&lt;/h2&gt;
 &lt;p&gt;See 
@@ -170,9 +170,9 @@
     
     <item>
       <title>My Presentation</title>
-      <link>http://localhost:1314/slides/epa25/</link>
+      <link>http://localhost:1313/slides/epa25/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/slides/epa25/</guid>
+      <guid>http://localhost:1313/slides/epa25/</guid>
       <description>&lt;!-- no-branding --&gt;
 &lt;style&gt;
   .reveal .slides {
@@ -193,7 +193,7 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa25/slide1.jpeg&#34;
+    src=&#34;http://localhost:1313/media/presentations/epa25/slide1.jpeg&#34;
     alt=&#34;Slide 1&#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 90%; height: auto;&#34;
   &gt;
@@ -219,9 +219,9 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa25/slide2.jpeg&#34;
+    src=&#34;http://localhost:1313/media/presentations/epa25/slide2.jpeg&#34;
     alt=&#34;Slide 2&#34;
-    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 80%; height: auto;&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 90%; height: auto;&#34;
   &gt;
 &lt;/div&gt;
 
@@ -245,13 +245,14 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa25/slide3.jpeg&#34;
+    src=&#34;http://localhost:1313/media/presentations/epa25/slide3.jpeg&#34;
     alt=&#34;Slide 3&#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 50%; height: auto;&#34;
   &gt;
 &lt;/div&gt;
 
 &lt;hr&gt;
+&lt;p&gt;ent
 &lt;style&gt;
   .reveal .slides {
     width: 100% !important;
@@ -271,20 +272,20 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa25/slide4.jpeg&#34;
+    src=&#34;http://localhost:1313/media/presentations/epa25/slide4.jpeg&#34;
     alt=&#34;Slide 4&#34;
-    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 50%; height: auto;&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 80%; height: auto;&#34;
   &gt;
 &lt;/div&gt;
-
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>My Presentation</title>
-      <link>http://localhost:1314/slides/epa26/</link>
+      <link>http://localhost:1313/slides/epa26/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/slides/epa26/</guid>
+      <guid>http://localhost:1313/slides/epa26/</guid>
       <description>&lt;!-- no-branding --&gt;
 &lt;style&gt;
   .reveal .slides {
@@ -305,7 +306,7 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa26/slide1.jpg&#34;
+    src=&#34;http://localhost:1313/media/presentations/epa26/slide1.jpg&#34;
     alt=&#34;Slide 1&#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 50%; height: auto;&#34;
   &gt;
@@ -331,7 +332,7 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa26/slide3.png&#34;
+    src=&#34;http://localhost:1313/media/presentations/epa26/slide3.png&#34;
     alt=&#34;Slide 2&#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 80%; height: auto;&#34;
   &gt;
@@ -342,9 +343,9 @@
     
     <item>
       <title>My Presentation</title>
-      <link>http://localhost:1314/slides/oncampus/</link>
+      <link>http://localhost:1313/slides/oncampus/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/slides/oncampus/</guid>
+      <guid>http://localhost:1313/slides/oncampus/</guid>
       <description>&lt;!-- no-branding --&gt;
 &lt;style&gt;
   .reveal .slides {
@@ -365,7 +366,7 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa26/slide1.jpg&#34;
+    src=&#34;http://localhost:1313/media/presentations/oncampus/slide1.jpg&#34;
     alt=&#34;Slide 1&#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 50%; height: auto;&#34;
   &gt;
@@ -391,8 +392,34 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa26/slide3.png&#34;
+    src=&#34;http://localhost:1313/media/presentations/oncampus/slide2.jpg&#34;
     alt=&#34;Slide 2&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 80%; height: auto;&#34;
+  &gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;style&gt;
+  .reveal .slides {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    transform: none !important;
+  }
+
+  .reveal .slides section {
+    top: 0 !important;
+    left: 0 !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+&lt;/style&gt;
+&lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
+  &lt;img
+    src=&#34;http://localhost:1313/media/presentations/oncampus/slide3.png&#34;
+    alt=&#34;Slide 3&#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 80%; height: auto;&#34;
   &gt;
 &lt;/div&gt;
@@ -402,9 +429,9 @@
     
     <item>
       <title>My Presentation</title>
-      <link>http://localhost:1314/slides/pip/</link>
+      <link>http://localhost:1313/slides/pip26/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/slides/pip/</guid>
+      <guid>http://localhost:1313/slides/pip26/</guid>
       <description>&lt;!-- no-branding --&gt;
 &lt;style&gt;
   .reveal .slides {
@@ -425,9 +452,9 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa26/slide1.jpg&#34;
+    src=&#34;http://localhost:1313/media/presentations/pip26/slide1.jpg&#34;
     alt=&#34;Slide 1&#34;
-    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 50%; height: auto;&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 90%; height: auto;&#34;
   &gt;
 &lt;/div&gt;
 
@@ -451,8 +478,138 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa26/slide3.png&#34;
+    src=&#34;http://localhost:1313/media/presentations/pip26/slide6.jpg&#34;
+    alt=&#34;Slide 6&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 45%; height: auto;&#34;
+  &gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;style&gt;
+  .reveal .slides {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    transform: none !important;
+  }
+
+  .reveal .slides section {
+    top: 0 !important;
+    left: 0 !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+&lt;/style&gt;
+&lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
+  &lt;img
+    src=&#34;http://localhost:1313/media/presentations/pip26/slide2.jpg&#34;
     alt=&#34;Slide 2&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 90%; height: auto;&#34;
+  &gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;style&gt;
+  .reveal .slides {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    transform: none !important;
+  }
+
+  .reveal .slides section {
+    top: 0 !important;
+    left: 0 !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+&lt;/style&gt;
+&lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
+  &lt;img
+    src=&#34;http://localhost:1313/media/presentations/pip26/slide3.jpg&#34;
+    alt=&#34;Slide 3&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 90%; height: auto;&#34;
+  &gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;style&gt;
+  .reveal .slides {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    transform: none !important;
+  }
+
+  .reveal .slides section {
+    top: 0 !important;
+    left: 0 !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+&lt;/style&gt;
+&lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
+  &lt;img
+    src=&#34;http://localhost:1313/media/presentations/pip26/slide4.jpg&#34;
+    alt=&#34;Slide 4&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 90%; height: auto;&#34;
+  &gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;style&gt;
+  .reveal .slides {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    transform: none !important;
+  }
+
+  .reveal .slides section {
+    top: 0 !important;
+    left: 0 !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+&lt;/style&gt;
+&lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
+  &lt;img
+    src=&#34;http://localhost:1313/media/presentations/pip26/slide5.jpg&#34;
+    alt=&#34;Slide 5&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 90%; height: auto;&#34;
+  &gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;style&gt;
+  .reveal .slides {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    transform: none !important;
+  }
+
+  .reveal .slides section {
+    top: 0 !important;
+    left: 0 !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+&lt;/style&gt;
+&lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
+  &lt;img
+    src=&#34;http://localhost:1313/media/presentations/pip26/slide7.png&#34;
+    alt=&#34;Slide 7  &#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 80%; height: auto;&#34;
   &gt;
 &lt;/div&gt;
@@ -462,9 +619,9 @@
     
     <item>
       <title>My Presentation</title>
-      <link>http://localhost:1314/slides/spr26/</link>
+      <link>http://localhost:1313/slides/spr26/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/slides/spr26/</guid>
+      <guid>http://localhost:1313/slides/spr26/</guid>
       <description>&lt;!-- no-branding --&gt;
 &lt;style&gt;
   .reveal .slides {
@@ -485,9 +642,9 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa26/slide1.jpg&#34;
+    src=&#34;http://localhost:1313/media/presentations/spr26/slide1.jpeg&#34;
     alt=&#34;Slide 1&#34;
-    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 50%; height: auto;&#34;
+    style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 80%; height: auto;&#34;
   &gt;
 &lt;/div&gt;
 
@@ -511,7 +668,7 @@
 &lt;/style&gt;
 &lt;div style=&#34;position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; margin: 0; padding: 0; overflow: visible;&#34;&gt;
   &lt;img
-    src=&#34;http://localhost:1314/media/presentations/epa26/slide3.png&#34;
+    src=&#34;http://localhost:1313/media/presentations/spr26/slide2.jpeg&#34;
     alt=&#34;Slide 2&#34;
     style=&#34;display: block; margin: 0; max-width: none !important; max-height: none !important; margin: 0; width: 80%; height: auto;&#34;
   &gt;
@@ -522,105 +679,105 @@
     
     <item>
       <title>Acceptance and Commitment Therapy for Insomnia: An Updated Meta-Analysis of Randomized Controlled Trials</title>
-      <link>http://localhost:1314/publications/2026-barroso-acceptance-and-commitment/</link>
+      <link>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publications/2026-barroso-acceptance-and-commitment/</guid>
+      <guid>http://localhost:1313/publications/2026-barroso-acceptance-and-commitment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral Presentation at the Society for Psychotherapy Research 2026 in Osaka</title>
+      <link>http://localhost:1313/events/spr26/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/spr26/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Behavioural and Genetic Predictors of Positive Symptoms in Psychotic Disorders</title>
-      <link>http://localhost:1314/publications/behavioural-genetic-predictors-psychosis/</link>
+      <link>http://localhost:1313/publications/behavioural-genetic-predictors-psychosis/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publications/behavioural-genetic-predictors-psychosis/</guid>
+      <guid>http://localhost:1313/publications/behavioural-genetic-predictors-psychosis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atomoxetine Versus Placebo for Cognitive Deficits in Stimulant Use Disorder: A Systematic Review</title>
-      <link>http://localhost:1314/publications/atomoxetine-stimulant-use-disorder/</link>
+      <link>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publications/atomoxetine-stimulant-use-disorder/</guid>
+      <guid>http://localhost:1313/publications/atomoxetine-stimulant-use-disorder/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Oral Presentation at the European Congress of Psychiatry 2025</title>
-      <link>http://localhost:1314/events/epa25/</link>
+      <title>Oral Presentation at the European Congress of Psychiatry 2025 in Madrid</title>
+      <link>http://localhost:1313/events/epa25/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/epa25/</guid>
+      <guid>http://localhost:1313/events/epa25/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poster at European Congress of Psychiatry 2026</title>
-      <link>http://localhost:1314/events/epa26/</link>
+      <title>Poster Presentation at the European Congress of Psychiatry 2026 in Prague</title>
+      <link>http://localhost:1313/events/epa26/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/epa26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poster at European Congress of Psychiatry 2026</title>
-      <link>http://localhost:1314/events/oncampus/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/oncampus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poster at European Congress of Psychiatry 2026</title>
-      <link>http://localhost:1314/events/pip26/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/pip26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poster at European Congress of Psychiatry 2026</title>
-      <link>http://localhost:1314/events/spr26/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/spr26/</guid>
+      <guid>http://localhost:1313/events/epa26/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Dose Olanzapine Versus Clozapine in Treatment-Resistant Schizophrenia: A Systematic Review and Meta-analysis of Randomized Controlled Trials</title>
-      <link>http://localhost:1314/publications/olanzapine-clozapine-schizophrenia/</link>
+      <link>http://localhost:1313/publications/olanzapine-clozapine-schizophrenia/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publications/olanzapine-clozapine-schizophrenia/</guid>
+      <guid>http://localhost:1313/publications/olanzapine-clozapine-schizophrenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster Presentation at the British Parliament 2026</title>
+      <link>http://localhost:1313/events/pip26/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/pip26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation and Poster at Cardiff University On-Campus Internship Exhibition 2025</title>
+      <link>http://localhost:1313/events/oncampus/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/oncampus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk of Dementia in Patients Treated with Anticholinergics for Overactive Bladder Syndrome: A Systematic Review and Meta-Analysis</title>
-      <link>http://localhost:1314/publications/anticholinergics-dementia/</link>
+      <link>http://localhost:1313/publications/anticholinergics-dementia/</link>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publications/anticholinergics-dementia/</guid>
+      <guid>http://localhost:1313/publications/anticholinergics-dementia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linguistic Effects of Transcranial Direct Current Stimulation (tDCS) in Patients with Primary Progressive Aphasia: A Systematic Review and Meta-Analysis of Randomised Controlled Trials</title>
-      <link>http://localhost:1314/publications/tdcs-primary-progressive-aphasia/</link>
+      <link>http://localhost:1313/publications/tdcs-primary-progressive-aphasia/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publications/tdcs-primary-progressive-aphasia/</guid>
+      <guid>http://localhost:1313/publications/tdcs-primary-progressive-aphasia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association of Prenatal Acetaminophen Exposure With Risk of ADHD and ASD in Offspring: A Systematic Review and Meta-Analysis</title>
-      <link>http://localhost:1314/publications/prenatal-acetaminophen-adhd-asd/</link>
+      <link>http://localhost:1313/publications/prenatal-acetaminophen-adhd-asd/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publications/prenatal-acetaminophen-adhd-asd/</guid>
+      <guid>http://localhost:1313/publications/prenatal-acetaminophen-adhd-asd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>⚡️ Turn Jupyter Notebooks into Blog Posts</title>
-      <link>http://localhost:1314/blog/notebook-onboarding/</link>
+      <link>http://localhost:1313/blog/notebook-onboarding/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/blog/notebook-onboarding/</guid>
+      <guid>http://localhost:1313/blog/notebook-onboarding/</guid>
       <description>&lt;p&gt;As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.&lt;/p&gt;
 &lt;p&gt;Hugo Blox changes that. With the &lt;code&gt;{{&amp;lt; notebook &amp;gt;}}&lt;/code&gt; shortcode, you can render your actual &lt;code&gt;.ipynb&lt;/code&gt; files directly as beautiful, interactive blog posts or project pages. Keep your code, outputs, and narrative in one place.&lt;/p&gt;
 
@@ -704,7 +861,7 @@
       &lt;p class=&#34;hb-notebook-title&#34;&gt;Launch Readiness Analysis&lt;/p&gt;
         &lt;p class=&#34;hb-notebook-subtitle&#34;&gt;Python · Kernel: Python 3 · nbformat 4.5 · 6 cells&lt;/p&gt;
     &lt;/div&gt;
-      &lt;a class=&#34;hb-notebook-download&#34; href=&#34;http://localhost:1314/blog/notebook-onboarding/hugoblox-onboarding.ipynb&#34; download&gt;
+      &lt;a class=&#34;hb-notebook-download&#34; href=&#34;http://localhost:1313/blog/notebook-onboarding/hugoblox-onboarding.ipynb&#34; download&gt;
         &lt;svg class=&#34;w-4 h-4&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;
         &lt;span&gt;Download notebook&lt;/span&gt;
       &lt;/a&gt;
@@ -924,9 +1081,9 @@ Done!
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1314/blog/get-started/</link>
+      <link>http://localhost:1313/blog/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/blog/get-started/</guid>
+      <guid>http://localhost:1313/blog/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -1210,34 +1367,10 @@ Done!
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1314/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1314/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1314/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1314/blog/second-brain/</link>
+      <link>http://localhost:1313/blog/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/blog/second-brain/</guid>
+      <guid>http://localhost:1313/blog/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -1421,9 +1554,9 @@ Done!
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1314/blog/data-visualization/</link>
+      <link>http://localhost:1313/blog/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/blog/data-visualization/</guid>
+      <guid>http://localhost:1313/blog/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;embed-rich-content&#34;&gt;Embed Rich Content&lt;/h2&gt;
@@ -1690,9 +1823,9 @@ This Hugging Face dataset is a mirror. For the …
     &lt;div class=&#34;p-6 space-y-4&#34;&gt;
       &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
     &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
-         srcset=&#34;http://localhost:1314/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_16dd801da86fdd1a.webp 400w, http://localhost:1314/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_91d20702259dc7b.webp 600w, http://localhost:1314/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_fb6518f2fc84313a.webp 800w, http://localhost:1314/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_c08883eebbab0a9.webp 800w&#34;
+         srcset=&#34;http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_16dd801da86fdd1a.webp 400w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_91d20702259dc7b.webp 600w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_fb6518f2fc84313a.webp 800w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_c08883eebbab0a9.webp 800w&#34;
          sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
-         src=&#34;http://localhost:1314/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_16dd801da86fdd1a.webp&#34; 
+         src=&#34;http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_16dd801da86fdd1a.webp&#34; 
          width=&#34;400&#34; 
          height=&#34;300&#34;
          loading=&#34;lazy&#34; 
@@ -1752,9 +1885,9 @@ This Hugging Face dataset is a mirror. For the …
     &lt;div class=&#34;p-6 space-y-4&#34;&gt;
       &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
     &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
-         srcset=&#34;http://localhost:1314/photo-1551288049-bebda4e38f71_10164962980614054447_hu_1cb16cc410ea26a3.webp 400w, http://localhost:1314/photo-1551288049-bebda4e38f71_10164962980614054447_hu_18bb0a620d059556.webp 600w, http://localhost:1314/photo-1551288049-bebda4e38f71_10164962980614054447_hu_d3041625e7a27dbb.webp 600w&#34;
+         srcset=&#34;http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_1cb16cc410ea26a3.webp 400w, http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_18bb0a620d059556.webp 600w, http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_d3041625e7a27dbb.webp 600w&#34;
          sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
-         src=&#34;http://localhost:1314/photo-1551288049-bebda4e38f71_10164962980614054447_hu_1cb16cc410ea26a3.webp&#34; 
+         src=&#34;http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_1cb16cc410ea26a3.webp&#34; 
          width=&#34;400&#34; 
          height=&#34;267&#34;
          loading=&#34;lazy&#34; 
@@ -1794,7 +1927,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-387591426&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-827195436&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1812,7 +1945,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-387591426&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-827195436&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1995,7 +2128,7 @@ Crash --&gt; [*]
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-f6d402d3e0ef4f7871a71f74ddcbf5cc&#34;
-    href=&#34;http://localhost:1314/&#34;
+    href=&#34;http://localhost:1313/&#34;
     
     
     
@@ -2080,7 +2213,7 @@ Crash --&gt; [*]
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-73171eb1b49c461e90dab01f45a3397d&#34;
-    href=&#34;http://localhost:1314/data/results.csv&#34;
+    href=&#34;http://localhost:1313/data/results.csv&#34;
     
     
     
@@ -2203,9 +2336,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1314/blog/teach-courses/</link>
+      <link>http://localhost:1313/blog/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/blog/teach-courses/</guid>
+      <guid>http://localhost:1313/blog/teach-courses/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -2277,7 +2410,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1314/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -2336,9 +2469,9 @@ data.head()
     
     <item>
       <title>Embed Media</title>
-      <link>http://localhost:1314/courses/hugo-blox/guide/formatting/media/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/media/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/guide/formatting/media/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/media/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -2502,17 +2635,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1314/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1314/blog/project-management/</link>
+      <link>http://localhost:1313/blog/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/blog/project-management/</guid>
+      <guid>http://localhost:1313/blog/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -2585,9 +2718,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Buttons</title>
-      <link>http://localhost:1314/courses/hugo-blox/guide/formatting/button/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/guide/formatting/button/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</guid>
       <description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
 &lt;h2 id=&#34;basic-usage&#34;&gt;Basic Usage&lt;/h2&gt;
 
@@ -2596,7 +2729,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-351ac412531c23e422b81c6422c17da5&#34;
-    href=&#34;http://localhost:1314/contact&#34;
+    href=&#34;http://localhost:1313/contact&#34;
     
     
     
@@ -3124,7 +3257,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;div class=&#34;text-center&#34;&gt;
   &lt;a
     id=&#34;button-62059f8d62052633590d3f60ec092595&#34;
-    href=&#34;http://localhost:1314/signup&#34;
+    href=&#34;http://localhost:1313/signup&#34;
     
     
     
@@ -3186,7 +3319,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-72ec86801f391f16b84b269ade9d2995&#34;
-    href=&#34;http://localhost:1314/files/document.pdf&#34;
+    href=&#34;http://localhost:1313/files/document.pdf&#34;
     
     
     
@@ -3305,9 +3438,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Callouts</title>
-      <link>http://localhost:1314/courses/hugo-blox/guide/formatting/callout/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/guide/formatting/callout/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/callout/</guid>
       <description>&lt;p&gt;Hugo Blox supports GitHub and Obsidian-style Markdown callouts for maximum compatibility and content portability.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
@@ -4172,9 +4305,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Cards</title>
-      <link>http://localhost:1314/courses/hugo-blox/guide/formatting/cards/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/guide/formatting/cards/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/cards/</guid>
       <description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 
@@ -4234,10 +4367,73 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Internationalization (i18n)</title>
-      <link>http://localhost:1314/courses/hugo-blox/reference/i18n/</link>
+      <title>Cognitive &amp; Clinical Neuroscience</title>
+      <link>http://localhost:1313/projects/neurosciences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/reference/i18n/</guid>
+      <guid>http://localhost:1313/projects/neurosciences/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;My research interests also extend to understanding how the brain generates functions such as perception and language. I am particularly interested in how neurological conditions can affect daily function, and how non-invasive brain stimulation can be used to treat dysfunction at a neural level. Some of the projects I have been involved in this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linguistic Effects of tDCS in Primary Progressive Aphasia (1)&lt;/li&gt;
+&lt;li&gt;Non-invasive Brain Stimulation in Primary Progressive Aphasia (2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cited-works&#34;&gt;Cited Works&lt;/h3&gt;
+&lt;p&gt;(1) Godoi, D. C., Pandiá, E., &amp;hellip; McGonigle, D. J. (2025). Linguistic effects of transcranial Direct Current Stimulation (tDCS) in
+patients with primary progressive aphasia: A systematic review and meta-analysis of randomised controlled trials.
+Neuroscience &amp;amp; Biobehavioral Reviews. DOI: 10.1016/j.neubiorev.2025.106264&lt;/p&gt;
+&lt;p&gt;(2) Godoi, D.C., L.M. Araújo &amp;hellip; D.J. McGonigle. The efficacy of transcranial Direct Current Stimulation (tDCS) for Neuropathic
+Pain: A systematic review and meta-analysis. PROSPERO: CRD420251146590&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evidence-Based Interventions</title>
+      <link>http://localhost:1313/projects/evidence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/evidence/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;I am interested in evaluating the effectiveness of interventions for mental health and neurological conditions. In particular, using meta-analytic approaches to synthesise evidence across studies and evaluate the effectiveness of psychological, pharmacological, and neuromodulatory interventions. I am also interested in evaluate the risk of different interventions at a population level.This sort of research can clinicians identify the most optimal treatment for their patients, and for regulatory bodies to create evidence-based guidelines.&lt;/p&gt;
+&lt;p&gt;Some of the main projects I have been involved in this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acceptance and Commitment Therapy for Insomnia: An Updated Meta-Analysis (1)&lt;/li&gt;
+&lt;li&gt;Non-invasive Brain Stimulation in Primary Progressive Aphasia (2)&lt;/li&gt;
+&lt;li&gt;Non-invasive Brain Stimulation for Neuropathic Pain (3)&lt;/li&gt;
+&lt;li&gt;High-Dose Olanzapine vs. Clozapine for Treatment-Resistant Schizophrenia (4)&lt;/li&gt;
+&lt;li&gt;Atomoxetine for Cognitive Deficits in Stimulant Use Disorder (5)&lt;/li&gt;
+&lt;li&gt;Association of Prenatal Acetaminophen Exposure With Risk of ADHD and ASD in Offspring (6)&lt;/li&gt;
+&lt;li&gt;Risk of dementia in patients treated with anticholinergics for overactive bladder syndrome (7)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cited-works&#34;&gt;Cited Works&lt;/h3&gt;
+&lt;p&gt;(1) Barroso, D. Portilho N., Garbacka A., Godoi D. C., &amp;hellip; El Rafihi-Ferreira R. Acceptance and commitment therapy for insom-
+nia: an updated meta-analysis of randomized controlled trials. Journal of Clinical Sleep Medicine 22, 132 (2026). DOI:
+&lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(2) Godoi, D. C., Pandiá, E., &amp;hellip; McGonigle, D. J. (2025). Linguistic effects of transcranial Direct Current Stimulation (tDCS) in
+patients with primary progressive aphasia: A systematic review and meta-analysis of randomised controlled trials.
+Neuroscience &amp;amp; Biobehavioral Reviews. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(3) Godoi, D.C., L.M. Araújo &amp;hellip; D.J. McGonigle. The efficacy of transcranial Direct Current Stimulation (tDCS) for Neuropathic
+Pain: A systematic review and meta-analysis. PROSPERO: CRD420251146590&lt;/p&gt;
+&lt;p&gt;(4) Kotochinsky, M., Eloa P.M., Mora, L., Godoi, D.C. … Pacheco, J.P.G. (2026) High-dose olanzapine vs clozapine in treatment-resistant schizophrenia: a systematic review and meta-analysis of randomized controlled trials. Journal of Psychiatric
+Practice. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(5) Barroso, D., Kotochinsky, M., Alessi, M.R, Amador, W.F.O., *Godoi, D.C., Sabloak, R., Pereira, S.I.S.P., Ansari, Y.Z, Amorim, K.G., Barbosa, G., Texeira, A. (2026). Atomoxetine Versus Placebo for Cognitive Deficits in Stimulant Use Disorder: A Systematic Review. Subst. Use Addict. J. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6) Godoi, D. C., Amorim, K. G., &amp;hellip; Júnior, S. A. de S. (2025). Association of Prenatal Acetaminophen Exposure With Risk of
+ADHD and ASD in Offspring: A systematic review and meta-analysis. European Psychiatry, 68(S1), S140–S141. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(7) Kotochinsky, M., Mora, L., *Godoi, D.C., da Silva,F., Guedes Amorim, K., Fernandes Oliveira Amador, W., Barroso, D., Pardini Fagundes, T. (2025). Risk of Dementia in Patients Treated with Anticholinergics for Overactive Bladder Syndrome: A Systematic Review and Meta-Analysis. Neurol. Sci. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internationalization (i18n)</title>
+      <link>http://localhost:1313/courses/hugo-blox/reference/i18n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/hugo-blox/reference/i18n/</guid>
       <description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s 
  feature.&lt;/p&gt;
 &lt;p&gt;View the full docs at 
@@ -4245,10 +4441,37 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Spoilers</title>
-      <link>http://localhost:1314/courses/hugo-blox/guide/formatting/toggle/</link>
+      <title>Investigating Mechanisms of Mental Health Disorders</title>
+      <link>http://localhost:1313/projects/mechanisms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/guide/formatting/toggle/</guid>
+      <guid>http://localhost:1313/projects/mechanisms/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;My main research interests surround understanding the mechanisms underlying psychopathology. While our treatments for mental health disorders have come a long way, there is still a lot of room for improvement in treating those who are resistant to available treatments, and developing more efficient interventions to address the excess demand for mental health support. To address this challenge, we must first improve our understanding of these conditions.&lt;/p&gt;
+&lt;p&gt;I aim to investigate this problem through different lenses, and integrate findings from cognitive science, behavioural approaches, genetics and neuroscience to deepen our knowledge of psychopathology that in the future, can help to develop more effective interventions. Some of the main projects I have been involved in this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Behavioural and Genetic Predictors of Positive Symptoms in Psychotic Disorders (1)&lt;/li&gt;
+&lt;li&gt;Validation of an Online Computational Task measuring Foraging Behaviour for Mental Health (2)&lt;/li&gt;
+&lt;li&gt;Autobiographical Memory Specificity as a Moderator of the Trauma-Depression Association (3)&lt;/li&gt;
+&lt;li&gt;Using optogenetics to investigate involvement of the BLA-Accumbens and BLA-CeA pathway in safety and fear learning (UNSW).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cited-works&#34;&gt;Cited Works&lt;/h3&gt;
+&lt;p&gt;(1) Godoi D. C., Walters, J. T., &amp;amp; Legge, S. E. (2026). Behavioural and Genetic Predictors of Positive Symptoms in Psychotic
+Disorders. European Psychiatry, 69(S1), S177-S177. DOI: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(2) Godoi, D.C., T. Dalgleish, A. Bevan. Validation of an Online Computational Task measuring Foraging Behaviour for Mental
+Health. OSF: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(3) Godoi, D.C., A. Bevan, K. Klaus &amp;hellip; T. Dalgleish. Autobiographical Memory Specificity as a Moderator of the Trauma-Depression
+Association. OSF: &lt;em&gt;
+&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spoilers</title>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/toggle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/toggle/</guid>
       <description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
@@ -4272,9 +4495,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Steps</title>
-      <link>http://localhost:1314/courses/hugo-blox/guide/formatting/steps/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/courses/hugo-blox/guide/formatting/steps/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/steps/</guid>
       <description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | </title>
-    <link>http://localhost:1314/events/</link>
-      <atom:link href="http://localhost:1314/events/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/events/</link>
+      <atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1314/media/icon_hu_eee4a95885829ab2.png</url>
+      <url>http://localhost:1313/media/icon_hu_eee4a95885829ab2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1314/events/</link>
+      <link>http://localhost:1313/events/</link>
     </image>
     
     <item>
-      <title>Oral Presentation at the European Congress of Psychiatry 2025</title>
-      <link>http://localhost:1314/events/epa25/</link>
+      <title>Oral Presentation at the Society for Psychotherapy Research 2026 in Osaka</title>
+      <link>http://localhost:1313/events/spr26/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/spr26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral Presentation at the European Congress of Psychiatry 2025 in Madrid</title>
+      <link>http://localhost:1313/events/epa25/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/epa25/</guid>
+      <guid>http://localhost:1313/events/epa25/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poster at European Congress of Psychiatry 2026</title>
-      <link>http://localhost:1314/events/epa26/</link>
+      <title>Poster Presentation at the European Congress of Psychiatry 2026 in Prague</title>
+      <link>http://localhost:1313/events/epa26/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/epa26/</guid>
+      <guid>http://localhost:1313/events/epa26/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poster at European Congress of Psychiatry 2026</title>
-      <link>http://localhost:1314/events/oncampus/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/oncampus/</guid>
+      <title>Poster Presentation at the British Parliament 2026</title>
+      <link>http://localhost:1313/events/pip26/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/pip26/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poster at European Congress of Psychiatry 2026</title>
-      <link>http://localhost:1314/events/pip26/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/pip26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poster at European Congress of Psychiatry 2026</title>
-      <link>http://localhost:1314/events/spr26/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/events/spr26/</guid>
+      <title>Presentation and Poster at Cardiff University On-Campus Internship Exhibition 2025</title>
+      <link>http://localhost:1313/events/oncampus/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/oncampus/</guid>
       <description></description>
     </item>
     

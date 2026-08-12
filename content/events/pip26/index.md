@@ -1,41 +1,35 @@
 ---
-title: "Poster at European Congress of Psychiatry 2026"
-date: '2026-03-29'
+title: "Poster Presentation at the British Parliament 2026"
+date: '2026-02-14'
 
-event_name: EPA 2026
-event_url: https://2026.epa-congress.org/
+event_name: Posters in Parliament 2026
+event_url: https://warwick.ac.uk/fac/cross_fac/iatl/research/present/pip/ 
 
 location: In-Person
 address:
-  street: Prague Congress Center
-  city: Prague
+  street: Portcullis House, British Parliament
+  city: London, United Kingdom
   region:  
   postcode:
-  country: Czech Republic
+  country: 
 
 summary: 
 abstract: |
-  In March of 2026, I had the opportunity to present a project which I worked on during my summer internship at the Brain and Genomics Hub in Cardiff. The poster was about understanding which factors were associated with positive symptom severity in psychosis, and is available for viewing.
+  In early 2026, I had the great privilege of presenting a poster at the British Parliament, showcasing research I conducted to MPs, policy-makers, and academics. The poster stemmed from my research at Cardiff University's Brain and Genomics Hub, and investigated factors that were associated with higher positive symptom severity in psychosis, advancing our understanding of the nature of psychotic disorders and its possible underlying mechanisms. During the event, it was fascinating to see the breadth and quality of the research produced by undergraduates across the country and engage in great conversations. I never expected to take part in such an amazing event so early in my carreer, and feel immensely thankful to my internship supervisors, Cardiff University's Learning and Teaching Academy, and the event organisers for providing an experience I will never forget.
 
 # Talk start and end times.
-event_start: '2026-03-29'
+event_start: '2026-02-14'
 event_end: 
 event_all_day: true
 
 authors:
   - me
 
-tags:
-  - Markdown
-  - Presentations
-  - Open Science
-  - Academic
-
 featured: true
 
 image:
-  caption: 'EPA 2026 Poster'
-  focal_point: Center
+  caption: 'PiP 2026'
+  focal_point: Top
 
 links:
   - icon: book-open
@@ -43,7 +37,7 @@ links:
     url: https://www.cambridge.org/core/journals/european-psychiatry/article/behavioural-and-genetic-predictors-of-positive-symptoms-in-psychotic-disorders/857C92BC5985B68CBFC20526DC098530
 
 # Link to your Markdown slides
-slides: "example"
+slides: "pip26"
 
 projects: []
 ---

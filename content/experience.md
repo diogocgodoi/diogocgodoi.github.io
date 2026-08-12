@@ -22,12 +22,43 @@ sections:
     content:
       title: Skills & Hobbies
       username: me
+
   - block: resume-awards
     content:
       title: Awards
       username: me
+
   - block: resume-languages
     content:
       title: Languages
       username: me
+
+  - block: logos
+    content:
+      title: Current & Previous Institutional Affiliations
+      items:
+        - name: R
+          image: logos/R.png
+          url: 
+          description: R
+        - name: Python
+          image: logos/Python.png
+          url: 
+          description: Python
+        - name: JavaScript
+          image: logos/js.png
+          url: 
+          description: JavaScript
+        - name: HTML
+          image: logos/html.png
+          url: 
+          description: HTML
+        - name: CSS
+          image: logos/css.png
+          url: 
+          description: CSS
+    design:
+      layout: row
+      logo_style: grayscale
+      logo_size: lg
 ---

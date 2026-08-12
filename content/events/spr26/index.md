@@ -1,49 +1,42 @@
 ---
-title: "Poster at European Congress of Psychiatry 2026"
-date: '2026-03-29'
+title: "Oral Presentation at the Society for Psychotherapy Research 2026 in Osaka"
+date: '2026-06-25'
 
-event_name: EPA 2026
-event_url: https://2026.epa-congress.org/
+event_name: SPR 2026
+event_url: https://www.psychotherapyresearch.org/page/spr2026
 
 location: In-Person
 address:
-  street: Prague Congress Center
-  city: Prague
+  street: Ritsumeikan University, Osaka
+  city: Japan
   region:  
   postcode:
-  country: Czech Republic
+  country:
 
 summary: 
 abstract: |
-  In March of 2026, I had the opportunity to present a project which I worked on during my summer internship at the Brain and Genomics Hub in Cardiff. The poster was about understanding which factors were associated with positive symptom severity in psychosis, and is available for viewing.
+  I had the great opportunity to present research at the 2026 Society for Psychotherapy Research conference in Osaka, Japan. I presented work validating the online version of a computational foraging task I helped to develop during my time at the MRC Cognition and Brain Sciences Unit, at the University of Cambridge under the supervision of Dr. Anna Bevan and Professor Tim Dalgleish.
 
 # Talk start and end times.
-event_start: '2026-03-29'
+event_start: '2026-06-25'
 event_end: 
 event_all_day: true
 
 authors:
   - me
-
-tags:
-  - Markdown
-  - Presentations
-  - Open Science
-  - Academic
-
 featured: true
 
 image:
-  caption: 'EPA 2026 Poster'
+  caption: 'SPR 2026 Presentation'
   focal_point: Center
 
 links:
   - icon: book-open
-    name: Published Abstract
-    url: https://www.cambridge.org/core/journals/european-psychiatry/article/behavioural-and-genetic-predictors-of-positive-symptoms-in-psychotic-disorders/857C92BC5985B68CBFC20526DC098530
+    name: Preprint
+    url: https://doi.org/10.17605/OSF.IO/8A7UW
 
 # Link to your Markdown slides
-slides: "example"
+slides: "spr26"
 
 projects: []
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Poster at European Congress of Psychiatry 2026"
+title: "Poster Presentation at the European Congress of Psychiatry 2026 in Prague"
 date: '2026-03-29'
 
 event_name: EPA 2026

@@ -23,7 +23,7 @@ slides:
 {{< presentation-image src="presentations/epa25/slide3.jpeg" style="margin: 0; width: 50%; height: auto;" alt="Slide 3" >}}
 
 ---
-
-{{< presentation-image src="presentations/epa25/slide4.jpeg" style="margin: 0; width: 50%; height: auto;" alt="Slide 4" >}}
+ent
+{{< presentation-image src="presentations/epa25/slide4.jpeg" style="margin: 0; width: 80%; height: auto;" alt="Slide 4" >}}
 
 

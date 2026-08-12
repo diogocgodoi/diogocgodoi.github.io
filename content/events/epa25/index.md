@@ -1,5 +1,5 @@
 ---
-title: "Oral Presentation at the European Congress of Psychiatry 2025"
+title: "Oral Presentation at the European Congress of Psychiatry 2025 in Madrid"
 date: '2026-04-01'
 
 event_name: EPA 2025
